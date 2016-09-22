@@ -1,0 +1,9 @@
+{
+  "name": "angular2_restful-service-calls",
+  "version": "0.0.0",
+  "description": "Angular2_RESTfulServiceCalls",
+  "main": "app.js",
+  "author": {
+    "name": "Kenneth"
+  }
+}
